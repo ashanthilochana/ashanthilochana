@@ -1,5 +1,5 @@
-### Hi! I'm Ashan Thilochana 👋
-- 🎓 I'm undergraduate studen at SLIIT
+### Hi! Ashan Thilochana Here 👋
+- 🎓 I'm undergraduate student at SLIIT
 - 🪴 I'm currently learning MERN stack development
 
 <!--
