@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Ashan Thilochana 👋
+- 🎓 I'm undergraduate studen at SLIIT
+- 🪴 I'm currently learning MERN stack development
 
 <!--
 **ashanthilochana/ashanthilochana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
